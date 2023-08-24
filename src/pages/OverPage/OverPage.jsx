@@ -1,4 +1,4 @@
-import './overPage.css'
+import './OverPage.css'
 
 // eslint-disable-next-line react/prop-types
 export const OverPage = ({retry,score}) => {
